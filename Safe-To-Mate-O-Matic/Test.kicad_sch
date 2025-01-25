@@ -1,0 +1,17 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 61965701-e2f1-45be-9be8-73c7384a6413)
+
+  (paper "B")
+
+  (title_block
+    (title "SAFE-TO-MATE-O-MATIC")
+    (date "2023-01-16")
+    (rev "-")
+    (comment 1 "7511-XXXX")
+  )
+
+  (lib_symbols
+  )
+
+)
